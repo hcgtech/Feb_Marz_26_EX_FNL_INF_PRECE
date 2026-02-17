@@ -4,7 +4,7 @@ EXAMEN FINAL FEBRERO/MARZO 2026 PRECEPTORES
 
 **Para proyecto es necesario tener:**
 * abierto tu usuario de google,
-* abierto tu usuario de [[Github.com](https://www.github.com)}]
+* abierto tu usuario de [[Github.com](https://www.github.com)]
 * abierto tu usuario en [[perplexity.ai](https://www.perplexity.ai/)]
 * abierto tu usuario de [[gamma.app](https://gamma.app/)]
 
