@@ -52,7 +52,7 @@ Cita fuentes de organismos oficiales o medios de comunicación de Misiones si es
 
 * **REPASA LOS SIGUIENTE PUNTOS PARA VERIFICAR QUE HAS AGREGADO TODOS LOS DETALLES:**
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
-> * ---> Texto del encabezado: Examen Febrero Informática 2026
+> * ---> Texto del encabezado: Examen Febrero/Marzo Informática 2026
 > * ---> Pie de Página: Número de Pagina en margen derecho. **Recuerda:** La Portada no debe tener número de página.
 > * Recuerda armar la tabla de contenido y la nota al pie
 > * ---> Sobre nota al pie, el texto a colocar: Utilizo Perplexity y herramientas IA para texto del examen.
